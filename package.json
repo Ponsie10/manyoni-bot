@@ -1,1 +1,15 @@
-
+{
+  "name": "manyoni-ridge-bot",
+  "version": "1.0.0",
+  "description": "WhatsApp bot for Manyoni Ridge Lodge Operations",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
